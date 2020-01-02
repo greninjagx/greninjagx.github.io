@@ -4,13 +4,13 @@ body {
 }
 
 .header {
-    background-color: rgb(36, 89, 36);
+    background-color: #ffff00;
     color: white;
     padding: 5px 10px;
 }
 
 .footer {
-    background-color: rgb(186, 222, 187);
+    background-color: #ffff00;
     padding: 6px;
     clear: both;
 }
